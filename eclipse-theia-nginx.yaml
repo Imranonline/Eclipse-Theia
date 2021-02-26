@@ -12,7 +12,7 @@ metadata:
     kubernetes.io/ingress.class: "nginx"
 spec:
   rules:
-  - host: theia.example.com
+  - host: theia.77d4b604-4d2c-4554-9e6b-cfee973c4095.k8s.civo.com
     http:
       paths:
        - path: /
